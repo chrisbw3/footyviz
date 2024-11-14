@@ -5,7 +5,7 @@ import plotly.express as px
 import io
 
 st.set_page_config(initial_sidebar_state='expanded')
-logo = '/Users/christiangentry/Documents/Data_projects/footy/Footy USA logo/fulllogo_transparent_nobuffer.png'
+logo = 'fulllogo_transparent_nobuffer.png'
 st.sidebar.image(logo, width=150)
 
 
